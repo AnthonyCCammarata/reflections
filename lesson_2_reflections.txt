@@ -3,6 +3,8 @@ It creates the hidden .git file that will hold the metadata for future commits.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+It holds the files you wish to update in the next commit.
+It offers the ability to choose which files are a part of the same logical change.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
