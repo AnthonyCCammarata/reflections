@@ -14,8 +14,7 @@ Branches allow you to add new functionallity that can be merged with the origina
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
-
-    Fill in your answer here
+It allows up-to-date offline working.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
